@@ -29,3 +29,7 @@ python number_guessing_game.py
 - Add difficulty levels
 - Save best score
 - Add a simple graphical interface
+
+## License
+
+This project is licensed under the MIT License.
